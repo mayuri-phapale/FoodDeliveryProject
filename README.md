@@ -54,7 +54,7 @@ The app uses **local file storage** for retaining state:
 ##  How to Run
 
 1. Open the project in **Eclipse** 
-2. Set the `Test.java` (inside `com.aurionpro.manager.model`) as the entry point
+2. Set the `Test.java` (inside `com.aurionpro.model`) as the entry point
 3. Run the program
 4. Interact with the menu to test Customer/Admin features
 
